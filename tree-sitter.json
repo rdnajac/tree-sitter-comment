@@ -1,0 +1,33 @@
+{
+  "grammars": [
+    {
+      "name": "comment",
+      "camelcase": "Comment",
+      "scope": "source.comment",
+      "injection-regex": "^comment$"
+    }
+  ],
+  "metadata": {
+    "version": "0.1.0",
+    "license": "MIT",
+    "description": "Tree-sitter grammar for highlighting strings wrapped in backticks within comments",
+    "authors": [
+      {
+        "name": "Ryan D. Najac",
+        "email": "ryan.najac@columbia.edu",
+        "url": "http://rdnajac.tech/"
+      }
+    ],
+    "links": {
+      "repository": "https://github.com/rdnajac/tree-sitter-comment"
+    }
+  },
+  "bindings": {
+    "c": true,
+    "go": true,
+    "node": true,
+    "python": true,
+    "rust": true,
+    "swift": true
+  }
+}
