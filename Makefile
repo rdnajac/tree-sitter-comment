@@ -4,7 +4,7 @@ endif
 
 LANGUAGE_NAME := tree-sitter-comment
 HOMEPAGE_URL := https://github.com/rdnajac/tree-sitter-comment
-VERSION := 0.1.0
+VERSION := 1.1.0
 
 # repository
 SRC_DIR := src

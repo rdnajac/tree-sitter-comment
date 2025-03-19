@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.13)
 
 project(tree-sitter-comment
-        VERSION "0.1.0"
+        VERSION "1.1.0"
         DESCRIPTION "Tree-sitter grammar for highlighting strings wrapped in backticks within comments"
         HOMEPAGE_URL "https://github.com/rdnajac/tree-sitter-comment"
         LANGUAGES C)

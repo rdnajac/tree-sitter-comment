@@ -1,6 +1,6 @@
 {
   "name": "tree-sitter-comment",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "description": "Tree-sitter grammar for highlighting strings wrapped in backticks within comments",
   "repository": "https://github.com/rdnajac/tree-sitter-comment",
   "license": "MIT",
