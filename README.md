@@ -107,3 +107,8 @@ syntax region CommentStringInBackticks start=/`/ end=/`/ contained containedin=.
 > [!NOTE]
 > It may also be possible to configure `nvim-treesitter` to also apply
 > [`additional_vim_regex_highlighting`](https://github.com/nvim-treesitter/nvim-treesitter?tab=readme-ov-file#highlight).
+
+## References
+
+- <https://tree-sitter.github.io/tree-sitter/index.html>
+- <https://slar.se/syntax-highlight-anything-with-tree-sitter.html>
